@@ -1,0 +1,4 @@
+ecg_2m 1 500 5000
+ecg_2m.mat 16+192 200/mV 12 0 -30 8373 0 II
+#Creator: wfdb2mat
+#Source: record challenge/2011/sim/ecg_2

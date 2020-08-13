@@ -1,0 +1,1 @@
+"./PLL.obj" "./aic3204.obj" "./aic3204_init.obj" "./iir_notch.obj" "./main.obj" "./stereo.obj" "./usbstk5505.obj" "./usbstk5505_gpio.obj" "./usbstk5505_i2c.obj" "./usbstk5505_led.obj" "../55xdsph.lib" "../CSLc55x5h.lib" "../lnkx.cmd" -lrts55h.lib 
