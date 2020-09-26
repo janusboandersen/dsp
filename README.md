@@ -39,5 +39,5 @@ Material is from the AU courses
 - 3.2.
 - 3.3.
 - 3.4.
-- 3.5.
+- 3.5. Morphological operations on binary images: Erosion, dilation, opening, closing. Use these for noise reduction and region extraction.
 - 3.6. Image segmentation using morphological operations, Laplacians, and watersheds.
