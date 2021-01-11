@@ -1,7 +1,5 @@
 # Digital Signal Processing :rocket:
-Different fun and cool cases of applied DSP and image processing
-
-**The cases**
+Different fun and cool cases of applied DSP and image processing.
 
 __DSP__:
 - 1.4. Analysis of ECG data for use in diagnosis, looking at RR-intervals in the time domain and heart-rate-variability (HRV) via the frequency domain :heart:
